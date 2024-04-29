@@ -7,6 +7,7 @@ By the end of the project, I aim to master the following:
 
 - How to organize a project directory
 - How to use links and images
+- How to use order and unordered list
 - How to make good commits
 
 Note: The project is pure HTML for now, but other programming languages (such as CSS and JavaScript) will be used as time goes on.
