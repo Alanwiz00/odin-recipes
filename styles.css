@@ -8,4 +8,10 @@
 .recipes {
     color: rgb(0, 0, 0);
     font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.images {
+    height: 200px;
+    width: 200px;
 }
